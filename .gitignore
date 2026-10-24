@@ -1,0 +1,9 @@
+/build*/
+**/build*/
+*.o
+*.a
+*.so
+__pycache__/
+/Plaintext/data/
+/Plaintext/outputs/
+/Plaintext/.venv/

@@ -1,0 +1,4 @@
+torch>=2.3,<3
+transformers==4.46.3
+datasets==2.21.0
+safetensors>=0.4,<1
